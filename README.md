@@ -5,6 +5,10 @@
 - Student A: Dylan Millage
 - Student B: Kat Cheng
 
+## Additional Change
+
+- Activity Tuesday: Git Foundations Guided Practice
+
 ## Branch Work
 
 Describe what you changed on the feature branch.
