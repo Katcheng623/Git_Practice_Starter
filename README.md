@@ -2,7 +2,7 @@
 
 ## Team
 
-- Student A:
+- Student A: Dylan Millage
 - Student B:
 
 ## Branch Work
