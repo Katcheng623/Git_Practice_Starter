@@ -3,7 +3,7 @@
 ## Team
 
 - Student A: Dylan Millage
-- Student B:
+- Student B: Kat Cheng
 
 ## Branch Work
 
